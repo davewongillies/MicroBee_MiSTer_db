@@ -1,5 +1,5 @@
 Path, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional), Overwrite (optional), Comments (optional)
-_Computer/MicroBee_20260807.rbf, https://github.com/diegov-au/MicroBee_MiSTer/raw/refs/heads/main/releases/MicroBee_20260807.rbf, , ,core, overwrite:true,
+_Computer/MicroBee_20260817.rbf, https://github.com/diegov-au/MicroBee_MiSTer/raw/refs/heads/main/releases/MicroBee_20260817.rbf, , ,core, overwrite:true,
 games/MicroBee/boot0.rom, https://archive.org/download/mister_bios_microbee/MicroBee_MiSTer_bios.zip/boot0.rom, 36864, 1e3d7c7bc646bcf967127b0ba749592c, bios, overwrite:false,
 games/MicroBee/boot1.rom, https://archive.org/download/mister_bios_microbee/MicroBee_MiSTer_bios.zip/boot1.rom, 8192, 7b13b2d10c2e93959d7a444342da2218, bios, overwrite:false,
 games/MicroBee/boot2.rom, https://archive.org/download/mister_bios_microbee/MicroBee_MiSTer_bios.zip/boot2.rom, 4096, 15b677979a7f089d4ad5a33aad4444de, bios, overwrite:false,
